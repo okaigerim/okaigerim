@@ -1,13 +1,11 @@
 # Hi there 👋 I'm Aigerim
 
-![Profile Views](https://github.com/okaigerim/)
-
 I'm a React Developer and Data Science specialist passionate about the web, AI, and front-end. I love web development and data analysis. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 
-![React](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)
-![Python](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
 
 ## 🌱 Currently Learning
 
