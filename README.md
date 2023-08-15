@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aigerim
 
-I'm a React Developer and Data Science specialist passionate about the web, AI, and front-end. I love web development and data analysis. Here you'll find some of my projects and contributions.
+I'm a React Developer and Data Science enthusiast passionate about the web, AI, and front-end. I love web development and data analysis. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 
