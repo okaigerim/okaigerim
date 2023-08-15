@@ -18,8 +18,3 @@ I'm currently learning Advanced React. I'm excited to dive deeper into building 
 ## ⚡ Fun Fact
 
 Whenever I get lost in a good book, I often find myself completely immersed in the story to the point where hours can fly by without me realizing it. My bookshelf is diverse, ranging from classic literature to science fiction and fantasy. There's nothing quite like the feeling of getting lost in the pages of a well-crafted story, and it's a passion I love sharing with fellow book enthusiasts
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=okaigerim&show_icons=true" alt="Your Name's GitHub Stats" style="width: 300px; height: 250px; ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaigerim" alt="Your Name's Top Languages" style="width: 200px; height: 200px;">
-</div>
